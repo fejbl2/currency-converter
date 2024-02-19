@@ -1,0 +1,403 @@
+{
+  "den": "20211111",
+  "denc": "11.11.2021",
+  "banka": "\u010Cesk\u00E1 n\u00E1rodn\u00ED banka",
+  "url": "https://www.kurzy.cz/kurzy-men/kurzovni-listek/ceska-narodni-banka/",
+  "kurzy": {
+    "AUD": {
+      "jednotka": 1,
+      "dev_stred": 16.088,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Australsk\u00FD dolar",
+      "url": "https://www.kurzy.cz/aud"
+    },
+
+    "BRL": {
+      "jednotka": 1,
+      "dev_stred": 4.048,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Brazilsk\u00FD real",
+      "url": "https://www.kurzy.cz/brl"
+    },
+
+    "GBP": {
+      "jednotka": 1,
+      "dev_stred": 29.527,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Britsk\u00E1 libra",
+      "url": "https://www.kurzy.cz/gbp"
+    },
+
+    "BGN": {
+      "jednotka": 1,
+      "dev_stred": 12.912,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Bulharsk\u00FD lev",
+      "url": "https://www.kurzy.cz/bgn"
+    },
+
+    "CNY": {
+      "jednotka": 1,
+      "dev_stred": 3.447,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "\u010C\u00EDnsk\u00FD juan",
+      "url": "https://www.kurzy.cz/cny"
+    },
+
+    "DKK": {
+      "jednotka": 1,
+      "dev_stred": 3.396,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "D\u00E1nsk\u00E1 koruna",
+      "url": "https://www.kurzy.cz/dkk"
+    },
+
+    "EUR": {
+      "jednotka": 1,
+      "dev_stred": 25.255,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Euro",
+      "url": "https://www.kurzy.cz/eur"
+    },
+
+    "PHP": {
+      "jednotka": 100,
+      "dev_stred": 44.021,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Filip\u00EDnsk\u00E9 peso",
+      "url": "https://www.kurzy.cz/php"
+    },
+
+    "HKD": {
+      "jednotka": 1,
+      "dev_stred": 2.828,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Hongkongsk\u00FD dolar",
+      "url": "https://www.kurzy.cz/hkd"
+    },
+
+    "HRK": {
+      "jednotka": 1,
+      "dev_stred": 3.362,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Chorvatsk\u00E1 kuna",
+      "url": "https://www.kurzy.cz/hrk"
+    },
+
+    "INR": {
+      "jednotka": 100,
+      "dev_stred": 29.606,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Indick\u00E1 rupie",
+      "url": "https://www.kurzy.cz/inr"
+    },
+
+    "IDR": {
+      "jednotka": 1000,
+      "dev_stred": 1.545,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Indon\u00E9sk\u00E1 rupie",
+      "url": "https://www.kurzy.cz/idr"
+    },
+
+    "ISK": {
+      "jednotka": 100,
+      "dev_stred": 16.792,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Islandsk\u00E1 koruna",
+      "url": "https://www.kurzy.cz/isk"
+    },
+
+    "ILS": {
+      "jednotka": 1,
+      "dev_stred": 7.064,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Izraelsk\u00FD \u0161ekel",
+      "url": "https://www.kurzy.cz/ils"
+    },
+
+    "JPY": {
+      "jednotka": 100,
+      "dev_stred": 19.339,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Japonsk\u00FD jen",
+      "url": "https://www.kurzy.cz/jpy"
+    },
+
+    "ZAR": {
+      "jednotka": 1,
+      "dev_stred": 1.445,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Jihoafrick\u00FD rand",
+      "url": "https://www.kurzy.cz/zar"
+    },
+
+    "KRW": {
+      "jednotka": 100,
+      "dev_stred": 1.866,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Jihokorejsk\u00FD won",
+      "url": "https://www.kurzy.cz/krw"
+    },
+
+    "CAD": {
+      "jednotka": 1,
+      "dev_stred": 17.514,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Kanadsk\u00FD dolar",
+      "url": "https://www.kurzy.cz/cad"
+    },
+
+    "HUF": {
+      "jednotka": 100,
+      "dev_stred": 6.923,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Ma\u010Farsk\u00FD forint",
+      "url": "https://www.kurzy.cz/huf"
+    },
+
+    "MYR": {
+      "jednotka": 1,
+      "dev_stred": 5.288,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Malajsijsk\u00FD ringgit",
+      "url": "https://www.kurzy.cz/myr"
+    },
+
+    "MXN": {
+      "jednotka": 1,
+      "dev_stred": 1.073,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Mexick\u00E9 peso",
+      "url": "https://www.kurzy.cz/mxn"
+    },
+
+    "XDR": {
+      "jednotka": 1,
+      "dev_stred": 31.063,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "MMF",
+      "url": "https://www.kurzy.cz/xdr"
+    },
+
+    "NOK": {
+      "jednotka": 1,
+      "dev_stred": 2.533,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Norsk\u00E1 koruna",
+      "url": "https://www.kurzy.cz/nok"
+    },
+
+    "NZD": {
+      "jednotka": 1,
+      "dev_stred": 15.475,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Novoz\u00E9landsk\u00FD dolar",
+      "url": "https://www.kurzy.cz/nzd"
+    },
+
+    "PLN": {
+      "jednotka": 1,
+      "dev_stred": 5.455,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Polsk\u00FD zlot\u00FD",
+      "url": "https://www.kurzy.cz/pln"
+    },
+
+    "RON": {
+      "jednotka": 1,
+      "dev_stred": 5.105,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Rumunsk\u00FD lei",
+      "url": "https://www.kurzy.cz/ron"
+    },
+
+    "RUB": {
+      "jednotka": 100,
+      "dev_stred": 30.972,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Rusk\u00FD rubl",
+      "url": "https://www.kurzy.cz/rub"
+    },
+
+    "SGD": {
+      "jednotka": 1,
+      "dev_stred": 16.278,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Singapursk\u00FD dolar",
+      "url": "https://www.kurzy.cz/sgd"
+    },
+
+    "SEK": {
+      "jednotka": 1,
+      "dev_stred": 2.534,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "\u0160v\u00E9dsk\u00E1 koruna",
+      "url": "https://www.kurzy.cz/sek"
+    },
+
+    "CHF": {
+      "jednotka": 1,
+      "dev_stred": 23.915,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "\u0160v\u00FDcarsk\u00FD frank",
+      "url": "https://www.kurzy.cz/chf"
+    },
+
+    "THB": {
+      "jednotka": 100,
+      "dev_stred": 67.078,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Thajsk\u00FD baht",
+      "url": "https://www.kurzy.cz/thb"
+    },
+
+    "TRY": {
+      "jednotka": 1,
+      "dev_stred": 2.223,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Tureck\u00E1 lira",
+      "url": "https://www.kurzy.cz/try"
+    },
+
+    "USD": {
+      "jednotka": 1,
+      "dev_stred": 22.038,
+      "dev_nakup": null,
+      "dev_prodej": null,
+      "val_stred": null,
+      "val_nakup": null,
+      "val_prodej": null,
+      "nazev": "Americk\u00FD dolar",
+      "url": "https://www.kurzy.cz/usd"
+    }
+  }
+}
