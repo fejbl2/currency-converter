@@ -1,8 +1,8 @@
 declare const brand: unique symbol;
 
-type Brand<T> = T & { [brand]: never };
+export type Brand<T, TBrand> = T & { [brand]: TBrand };
 
-export type CurrencyCode = Brand<string>;
+export type CurrencyCode = Brand<string, "CurrencyCode">;
 
 export type Rates = {
   [key in CurrencyCode]: {
